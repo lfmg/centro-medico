@@ -1,0 +1,31 @@
+body * {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    margin: 0; padding: 0;
+}
+p { font-family: 'Roboto', sans-serif; margin-bottom: 5px;}
+hr {margin: 50px 0; color: #f8f8f8;}
+h2 {
+     font-size: 30px;
+     margin-bottom: 30px;
+}
+h3 {
+     font-size: 24px;
+     margin: 24px 0;
+}
+table {
+     border-left: 1px solid #dadada;
+     border-top: 1px solid #dadada;
+     margin-bottom: 30px;
+     width: 800px;
+     border-spacing: 0px;
+}
+
+td, th {
+     padding: 10px 15px;
+     border-bottom: 1px solid #dadada;
+     border-right: 1px solid #dadada;
+     margin: 0;
+}
+
+th { font-weight: 600 }
